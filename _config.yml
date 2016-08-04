@@ -12,7 +12,4 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 name: AGR Vinyl Pressing
-navigation:
-  - name: our site
-    url: www.agrm.co.uk
-    type: external
+navigation: []
