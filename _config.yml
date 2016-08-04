@@ -6,9 +6,13 @@ color:
   saturation: 0.09043098497204483
   rhythmicContrast: 0.45096580730751157
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: AGR Vinyl Pressing
+navigation:
+  - name: our site
+    url: www.agrm.co.uk
+    type: external
